@@ -36,5 +36,5 @@ teminal 3.
 
 ## viedo for show  
 [![Watch the video](https://github.com/lishuwei0424/image_rotate_demo/blob/master/viedo.bmp)](
-https://youtu.be/3e-7V7GmBmU)
+https://www.bilibili.com/video/BV1wT4y1j7sR)
 
