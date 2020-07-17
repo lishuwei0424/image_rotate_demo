@@ -23,15 +23,13 @@ roscore
 teminal 2. 
 ```bash
    source  ./devel/setup.bash  
-   rosrun   image_rotate_demo   image_processer_node  
-   roscore  
+   rosrun   image_rotate_demo   image_processer_node    
  ```
 
 teminal 3.   
 ```bash
    source  ./devel/setup.bash  
    rosrun  image_rotate_demo  image_publisher_node  
-   roscore  
 ```
 
 ## viedo for show  
