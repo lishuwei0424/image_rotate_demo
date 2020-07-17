@@ -35,6 +35,6 @@ teminal 3.
 ```
 
 ## viedo for show  
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](
+[![Watch the video](https://github.com/lishuwei0424/image_rotate_demo/blob/master/viedo.bmp)](
 https://youtu.be/3e-7V7GmBmU)
 
