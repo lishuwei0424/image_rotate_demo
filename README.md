@@ -35,7 +35,7 @@ teminal 3.
 ```
 
 ## viedo for show
-<iframe src="https://www.bilibili.com/video/BV1wT4y1j7sR" scrolling="no" width="800px" height="600px" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=926428646&bvid=BV1wT4y1j7sR&cid=213677417&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 
