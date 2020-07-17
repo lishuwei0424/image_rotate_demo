@@ -5,7 +5,7 @@ Using ROS to realize two ROS nodes. image_ Publisher node is responsible for tra
 publish, and then image_processor node is responsible for rotating the image 90 ° clockwise and then pushing it out.
 ```
 
-## build From Source
+## build  on ROS Kinetic From Source
 ```bash
 mkdir -p  ~/caktin_ws/src  
 cd ~/caktin_ws/src  
@@ -35,6 +35,8 @@ teminal 3.
 ```
 
 ## viedo for show
-<iframe height=498 width=510 src="https://youtu.be/3e-7V7GmBmU">
+<iframe src="https://www.bilibili.com/video/BV1wT4y1j7sR" scrolling="no" width="800px" height="600px" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
 
 
