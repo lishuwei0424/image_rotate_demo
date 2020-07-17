@@ -37,6 +37,6 @@ teminal 3.
 ## viedo for show
 <iframe src="//player.bilibili.com/player.html?aid=926428646&bvid=BV1wT4y1j7sR&cid=213677417&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3e-7V7GmBmU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
